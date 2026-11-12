@@ -18,6 +18,8 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Operational Discernment: Questions, Resources, and Reassessment](research/2026-11-11-operational-discernment.md)
 - [Core Loop Tuning: From Player Friction to Traceable Changes](research/2026-11-11-core-loop-tuning.md)
 
+- [From Pressure to Useful Work: A Curiosity and Feedback Loop](research/2026-11-12-pressure-to-useful-work.md)
+
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
 ## What remains private
