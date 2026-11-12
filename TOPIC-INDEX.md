@@ -126,7 +126,7 @@ The 118 entries below are **ITI-RP** candidate research topics, not published ma
 
 ## Count and scope
 
-Updated: 2026-11-12. **118 candidate catalog entries: 98 original + 20 additions.** This counts research directions, not completed papers, independent discoveries, or validated findings. The two published notes linked below are related outputs and are not added again to the topic count.
+Updated: 2026-11-12. **118 candidate catalog entries: 98 original + 20 additions.** This counts research directions, not completed papers, independent discoveries, or validated findings. The published notes linked below are related outputs and are not added again to the topic count.
 
 The expansion was reconciled against the original list as narrower applications or distinct workstreams within existing themes. Related subjects remain cross-referenced rather than presented as unrelated inventions. Private source inventory synchronization is separate; this release updates the public catalog only.
 
@@ -161,3 +161,5 @@ These releases develop selected questions from the inventory; they do not promot
 |---|---|---|
 | [Operational Discernment](research/2026-11-11-operational-discernment.md) | 078, 084, 088, 098 | Concept note v0.1; unevaluated |
 | [Core Loop Tuning](research/2026-11-11-core-loop-tuning.md) | 034, 092, 097 | Developer methodology note v0.1; reported case |
+
+| [From Pressure to Useful Work](research/2026-11-12-pressure-to-useful-work.md) | 040, 081, 084, 085, 086, 087, 088, 099, 116 | Methodology and field exercise v0.1; unevaluated |
