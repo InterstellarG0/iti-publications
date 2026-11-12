@@ -102,3 +102,12 @@ The 98 entries below are **ITI-RP** candidate research topics, not published man
 | ITI-RP-096 | Product Specifications | Public Accountability Research Tools Unified Architecture | Idea |
 | ITI-RP-097 | Product Specifications | ION First Pilot Measurement and Evaluation Protocol | Idea |
 | ITI-RP-098 | Product Specifications | ITI Multi-Agent Handoff and Knowledge Preservation Standard | Idea |
+
+## Related published notes
+
+These releases develop selected questions from the inventory; they do not promote all related candidate manuscripts to Published or Verified.
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [Operational Discernment](research/2026-11-11-operational-discernment.md) | 078, 084, 088, 098 | Concept note v0.1; unevaluated |
+| [Core Loop Tuning](research/2026-11-11-core-loop-tuning.md) | 034, 092, 097 | Developer methodology note v0.1; reported case |
