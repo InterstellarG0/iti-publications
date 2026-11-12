@@ -1,5 +1,13 @@
 # Publication history
 
+## 2026-11-12 — Public Foundations v0.3
+
+- Expanded the public candidate topic catalog from 98 to 118 entries (ITI-RP-001–118).
+- Published the 20 previously prepared additions as titles and Idea status only, under the founder's November 12 publication instruction.
+- Preserved original IDs and added cross-references explaining scope overlap.
+- Verified 118 unique, sequential IDs and titles; the count represents candidate directions, not completed papers or proven findings.
+- Updated README count. Private manuscripts and the private master CSV were not changed.
+
 ## 2026-11-11 — Public Foundations v0.2
 
 - Added a public concept note on operational discernment, resource requests, and reassessment.

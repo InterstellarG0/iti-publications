@@ -1,6 +1,6 @@
 # ITI Candidate Research Topic Index
 
-The 98 entries below are **ITI-RP** candidate research topics, not published manuscripts. Every entry is marked Idea in the source inventory; this is a catalog status, not a comprehensive statement about all related work.
+The 118 entries below are **ITI-RP** candidate research topics, not published manuscripts. The original 98 entries retain their source inventory status. Entries 099–118 are the candidate additions prepared on November 10 and authorized for public catalog release on November 12, 2026. All are cataloged as Idea; this does not describe the maturity of every related private draft.
 
 | ID | Discipline | Candidate topic | Inventory status |
 |---|---|---|---|
@@ -102,6 +102,56 @@ The 98 entries below are **ITI-RP** candidate research topics, not published man
 | ITI-RP-096 | Product Specifications | Public Accountability Research Tools Unified Architecture | Idea |
 | ITI-RP-097 | Product Specifications | ION First Pilot Measurement and Evaluation Protocol | Idea |
 | ITI-RP-098 | Product Specifications | ITI Multi-Agent Handoff and Knowledge Preservation Standard | Idea |
+
+| ITI-RP-099 | Gaming and Education | Experience-to-Enterprise: Reverse Engineering Professional Skills | Idea |
+| ITI-RP-100 | AI and Knowledge | Lifelong Personal Knowledge Libraries and Digital Ownership | Idea |
+| ITI-RP-101 | AI and Knowledge | AI-Assisted Emergency Dispatch and Operator Guidance | Idea |
+| ITI-RP-102 | AI and Knowledge | Human-AI Continuity and Memory Portability | Idea |
+| ITI-RP-103 | AI and Knowledge | Automated Research Legacy and Digital Succession | Idea |
+| ITI-RP-104 | Gaming and Education | Clinical Recovery Digital Creative Laboratories | Idea |
+| ITI-RP-105 | Space and Infrastructure | Portable Astronomy Kit 001 | Idea |
+| ITI-RP-106 | AI and Knowledge | Research Preservation and Disaster Recovery Drills | Idea |
+| ITI-RP-107 | Product Specifications | Vehicle Cargo Compatibility and Logistics Optimization | Idea |
+| ITI-RP-108 | Public Policy | Hemispheric Restraint and Space Infrastructure Investment | Idea |
+| ITI-RP-109 | Humanitarian | Roadway Edge and Curb Safety | Idea |
+| ITI-RP-110 | AI and Knowledge | Daily Human-AI Collaboration | Idea |
+| ITI-RP-111 | Gaming and Education | AI-Assisted Professional Training | Idea |
+| ITI-RP-112 | Economics | Community Technology Outpost Financing | Idea |
+| ITI-RP-113 | Product Specifications | Portable Local AI Computing | Idea |
+| ITI-RP-114 | Gaming and Education | Gaming Participation Incentive Models | Idea |
+| ITI-RP-115 | Space and Infrastructure | Exploratory Space Navigation Architecture | Idea |
+| ITI-RP-116 | AI and Knowledge | Research Disagreement and Evidence Provenance | Idea |
+| ITI-RP-117 | AI and Knowledge | Privacy-Preserving Digital Identity | Idea |
+| ITI-RP-118 | Product Specifications | Portable Gaming and Astrophotography Workstations | Idea |
+
+## Count and scope
+
+Updated: 2026-11-12. **118 candidate catalog entries: 98 original + 20 additions.** This counts research directions, not completed papers, independent discoveries, or validated findings. The two published notes linked below are related outputs and are not added again to the topic count.
+
+The expansion was reconciled against the original list as narrower applications or distinct workstreams within existing themes. Related subjects remain cross-referenced rather than presented as unrelated inventions. Private source inventory synchronization is separate; this release updates the public catalog only.
+
+| Added ID | Related original IDs | Scope distinction |
+|---|---|---|
+| ITI-RP-099 | 084, 088, 061 | Professional experience translated into teachable skills |
+| ITI-RP-100 | 014, 018 | Lifelong ownership and retrieval of a personal knowledge collection |
+| ITI-RP-101 | 078, 088 | Operator guidance in dispatch workflows |
+| ITI-RP-102 | 017, 098 | Moving context and continuity between tools |
+| ITI-RP-103 | 042, 098 | Succession and release governance |
+| ITI-RP-104 | 035, 021 | Creative laboratory concept in recovery settings |
+| ITI-RP-105 | 043, 097 | Specific portable astronomy pilot kit |
+| ITI-RP-106 | 018, 098 | Restore verification and rehearsal |
+| ITI-RP-107 | 057, 078 | Cargo fit and vehicle compatibility |
+| ITI-RP-108 | 069, 047 | Regional policy and investment scenario |
+| ITI-RP-109 | 078 | Roadway edge hazard research |
+| ITI-RP-110 | 088 | Longitudinal everyday collaboration |
+| ITI-RP-111 | 037, 084 | Training workflow and assessment |
+| ITI-RP-112 | 059, 063 | Financing a community outpost |
+| ITI-RP-113 | 019 | Portable local inference hardware |
+| ITI-RP-114 | 033, 061 | Participation and reward design |
+| ITI-RP-115 | 047, 049 | Navigation architecture research |
+| ITI-RP-116 | 017 | Recording objections and evidence lineage |
+| ITI-RP-117 | 014, 020 | Identity with minimal disclosure |
+| ITI-RP-118 | 043, 044 | Combined portable processing workstation |
 
 ## Related published notes
 
