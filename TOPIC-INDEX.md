@@ -102,7 +102,6 @@ The 118 entries below are **ITI-RP** candidate research topics, not published ma
 | ITI-RP-096 | Product Specifications | Public Accountability Research Tools Unified Architecture | Idea |
 | ITI-RP-097 | Product Specifications | ION First Pilot Measurement and Evaluation Protocol | Idea |
 | ITI-RP-098 | Product Specifications | ITI Multi-Agent Handoff and Knowledge Preservation Standard | Idea |
-
 | ITI-RP-099 | Gaming and Education | Experience-to-Enterprise: Reverse Engineering Professional Skills | Idea |
 | ITI-RP-100 | AI and Knowledge | Lifelong Personal Knowledge Libraries and Digital Ownership | Idea |
 | ITI-RP-101 | AI and Knowledge | AI-Assisted Emergency Dispatch and Operator Guidance | Idea |
@@ -163,3 +162,5 @@ These releases develop selected questions from the inventory; they do not promot
 | [Core Loop Tuning](research/2026-11-11-core-loop-tuning.md) | 034, 092, 097 | Developer methodology note v0.1; reported case |
 
 | [From Pressure to Useful Work](research/2026-11-12-pressure-to-useful-work.md) | 040, 081, 084, 085, 086, 087, 088, 099, 116 | Methodology and field exercise v0.1; unevaluated |
+| [Civic Responsibility to Useful Service](research/2026-11-12-civic-duty-to-useful-service.md) | 002, 005, 033, 061, 078, 084, 099, 112 | Field-manual lesson v0.1; unevaluated |
+| [From Word Choice to Testable Questions](research/2026-11-12-word-choice-to-testable-questions.md) | 017, 040, 084, 116 | General exercise v0.1; unevaluated |

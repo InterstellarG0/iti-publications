@@ -1,4 +1,4 @@
-# ITI Research Library — Public Foundations v0.3
+# ITI Research Library — Public Foundations v0.4
 
 **Organization:** Interstellar Technologies Initiative, LLC  
 **Date:** 2026-11-12
@@ -19,6 +19,9 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Core Loop Tuning: From Player Friction to Traceable Changes](research/2026-11-11-core-loop-tuning.md)
 
 - [From Pressure to Useful Work: A Curiosity and Feedback Loop](research/2026-11-12-pressure-to-useful-work.md)
+
+- [Remember Your Community: From Civic Responsibility to Useful Service](research/2026-11-12-civic-duty-to-useful-service.md)
+- [From Word Choice to Testable Questions](research/2026-11-12-word-choice-to-testable-questions.md)
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 

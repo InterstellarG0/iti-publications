@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-12 — Public Foundations v0.4
+
+- Added a general civic-responsibility field exercise: identify a need, work backward from useful service, cost the full obligation, test, and reassess.
+- Added a general word-choice exercise: verify uncertain wording, distinguish observations from assumptions, and formulate answerable questions.
+- Updated navigation and related-topic links. The catalog remains 118 candidate topics; these exercises develop existing directions.
+- Public text excludes personal history, transcripts, identifying project details, budgets, and internal plans. No outcomes are claimed.
+
 ## 2026-11-12 — Curiosity and feedback loop note
 
 - Published a proposed pressure-to-useful-work learning loop, field-manual card, low-stakes exercise, tracking template, and graph plan.
