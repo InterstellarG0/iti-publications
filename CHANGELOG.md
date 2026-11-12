@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-12 — Curiosity and feedback loop note
+
+- Published a proposed pressure-to-useful-work learning loop, field-manual card, low-stakes exercise, tracking template, and graph plan.
+- Distinguished observations, interpretations, illustrative examples, and unevaluated hypotheses; no outcome measurements are claimed.
+- Linked the note from README and the candidate index. Catalog remains 118 because this develops existing directions.
+- Private social drafts, personal medical history, and clinical Foundry concept notes are not included in this public release.
+
 ## 2026-11-12 — Public Foundations v0.3
 
 - Expanded the public candidate topic catalog from 98 to 118 entries (ITI-RP-001–118).
