@@ -21,3 +21,6 @@ Researchers may suggest sources, objections, and independent approaches through 
 
 ## Privacy and integrity
 Do not submit private personal information, credentials, confidential operational details, or potentially hazardous implementation instructions. AI assistance must not be represented as independent scientific validation.
+
+## Context-preserving design capture
+Keep original accounts, speaker corrections, observations, interpretations, design hypotheses, and evaluation results distinct. Mark self-report and transcript uncertainty. Preserve material disagreement; allow correction without erasing the source. Use synthetic examples for early prototypes and publish only the selected derivative. See [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md).

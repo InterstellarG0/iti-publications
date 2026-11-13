@@ -1,7 +1,7 @@
-# ITI Research Library — Public Foundations v0.4
+# ITI Research Library — Public Foundations v0.5
 
 **Organization:** Interstellar Technologies Initiative, LLC  
-**Date:** 2026-11-12
+**Date:** 2026-11-13
 
 ## Purpose
 Provide a public entry point into ITI's research questions, organizational foundations, and editorial methodology. This publication is informational: it does not assert scientific validation, product readiness, or partnerships.
@@ -23,10 +23,14 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Remember Your Community: From Civic Responsibility to Useful Service](research/2026-11-12-civic-duty-to-useful-service.md)
 - [From Word Choice to Testable Questions](research/2026-11-12-word-choice-to-testable-questions.md)
 
+- [Portable Experiences: Simulate, Rehearse, Book, Measure](research/2026-11-13-portable-experience-pilot.md)
+- [Guest Welcome: A Thirty-Second Orientation](research/2026-11-13-guest-welcome-checklist.md)
+- [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md)
+
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
 ## What remains private
-Unpublished manuscripts, private notes, internal handoffs, AI transcripts, logs, test data, budgets, operational plans, sensitive designs, and personal information are not included. The public topic index is not a publication of underlying working drafts.
+Unpublished manuscripts, private notes, internal handoffs, AI transcripts, logs, test data, budgets, unreleased operational plans, sensitive designs, and personal information are not included. The public topic index is not a publication of underlying working drafts.
 
 ## Research method
 Capture → Classify → Investigate → Outline → Draft → Critically Review → Verify → Publish → Revise.

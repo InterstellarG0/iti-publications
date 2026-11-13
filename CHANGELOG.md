@@ -1,5 +1,13 @@
 # Publication history
 
+## 2026-11-13 — Public Foundations v0.5
+
+- Added a portable experience pilot exercise covering readiness gates, rehearsal, booking, cost accounting, custody, and evidence-led expansion.
+- Added a brief interest-based guest welcome and optional keepsake concept.
+- Added a generalized context-preserving documentation and design method; private source accounts are not published.
+- Updated methodology and navigation. The catalog remains 118 candidate topics; these notes develop existing directions.
+- Prices, customers, clinical results, working equipment, and partnerships are not represented as established or validated by this release.
+
 ## 2026-11-12 — Public Foundations v0.4
 
 - Added a general civic-responsibility field exercise: identify a need, work backward from useful service, cost the full obligation, test, and reassess.

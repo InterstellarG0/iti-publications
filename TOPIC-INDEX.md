@@ -164,3 +164,9 @@ These releases develop selected questions from the inventory; they do not promot
 | [From Pressure to Useful Work](research/2026-11-12-pressure-to-useful-work.md) | 040, 081, 084, 085, 086, 087, 088, 099, 116 | Methodology and field exercise v0.1; unevaluated |
 | [Civic Responsibility to Useful Service](research/2026-11-12-civic-duty-to-useful-service.md) | 002, 005, 033, 061, 078, 084, 099, 112 | Field-manual lesson v0.1; unevaluated |
 | [From Word Choice to Testable Questions](research/2026-11-12-word-choice-to-testable-questions.md) | 017, 040, 084, 116 | General exercise v0.1; unevaluated |
+
+| [Portable Experience Pilot](research/2026-11-13-portable-experience-pilot.md) | 005, 033, 041, 043, 044, 061, 097, 105, 112, 118 | Planning exercise v0.1; untested |
+| [Guest Welcome Checklist](research/2026-11-13-guest-welcome-checklist.md) | 033, 043, 097, 105, 118 | Proposed routine v0.1; untested |
+| [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md) | 017, 020, 021, 083, 084, 095, 098, 104, 116 | Documentation method v0.1; unevaluated |
+
+November 13, 2026: three related notes added; candidate count remains 118. No new candidate IDs or clinical findings are asserted.
