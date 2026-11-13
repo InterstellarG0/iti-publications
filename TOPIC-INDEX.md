@@ -189,3 +189,13 @@ This derivative adds no new candidate IDs. The catalog remains 118 entries.
 | [Downsizing: Compare the Whole Cost](research/2026-11-13-downsizing-whole-cost.md) | 005, 056, 057, 084, 088, 099 | Planning exercise v0.1; untested |
 
 Candidate count remains **118**. These notes develop existing directions and do not establish clinical outcomes or financial savings.
+
+### November 13 public methods and architecture release
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [Privacy Without Constant Suspicion](research/2026-11-13-privacy-without-constant-suspicion.md) | 020, 040, 084, 117 | Field exercise v0.1; unevaluated |
+| [A Researcher-Controlled AI Workflow Layer](research/2026-11-13-researcher-controlled-ai-workflow.md) | 014, 015, 017, 018, 020, 100, 102, 116, 117 | Architecture proposal v0.1; untested |
+| [Designing Reflection Assistants That Preserve User Choice](research/2026-11-13-reflection-assistants-user-choice.md) | 020, 024, 029, 031, 032, 083, 084, 091 | Conversation-design proposal v0.1; unevaluated |
+
+Catalog remains **118 candidate topics**. These three publications develop existing directions; no implementation, clinical result, or learner outcome is asserted.
