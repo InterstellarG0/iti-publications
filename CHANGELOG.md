@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-13 — Public Foundations v0.7
+
+- Added Voice Lab / Foundry delegation and capture-return design note, a teaching card, and a proposed nonclinical evaluation.
+- Added a whole-cost downsizing planning exercise without private budgets, locations or household details.
+- Updated navigation and methodology. Candidate count remains 118.
+- Retained personal clinical account and clinical-facing hypotheses privately; no treatment effect, novelty, tested product or savings claimed.
+
 ## 2026-11-13 — Public Foundations v0.6
 
 - Added a nonclinical visualization teaching exercise and product hypothesis using fictional scenes.
