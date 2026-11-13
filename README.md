@@ -1,4 +1,4 @@
-# ITI Research Library — Public Foundations v0.5
+# ITI Research Library — Public Foundations v0.6
 
 **Organization:** Interstellar Technologies Initiative, LLC  
 **Date:** 2026-11-13
@@ -26,6 +26,10 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Portable Experiences: Simulate, Rehearse, Book, Measure](research/2026-11-13-portable-experience-pilot.md)
 - [Guest Welcome: A Thirty-Second Orientation](research/2026-11-13-guest-welcome-checklist.md)
 - [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md)
+
+- [Visualization as a Learning Tool: A Product Hypothesis](research/2026-11-13-visualization-learning-product.md)
+
+- [From Lived Experience to Research Questions](research/2026-11-13-lived-experience-research-perspective.md)
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 

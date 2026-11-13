@@ -170,3 +170,13 @@ These releases develop selected questions from the inventory; they do not promot
 | [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md) | 017, 020, 021, 083, 084, 095, 098, 104, 116 | Documentation method v0.1; unevaluated |
 
 November 13, 2026: three related notes added; candidate count remains 118. No new candidate IDs or clinical findings are asserted.
+
+### Additional November 13 note
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [Visualization as a Learning Tool](research/2026-11-13-visualization-learning-product.md) | 017, 020, 021, 033, 044, 083, 084, 088, 095, 104, 116 | Nonclinical teaching and product hypothesis v0.1; untested |
+
+This derivative adds no new candidate IDs. The catalog remains 118 entries.
+
+| [From Lived Experience to Research Questions](research/2026-11-13-lived-experience-research-perspective.md) | 017, 021, 035, 078, 080, 083, 084, 095, 101, 104, 111, 116 | Author perspective and method v0.1; no clinical results |

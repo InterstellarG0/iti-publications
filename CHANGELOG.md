@@ -1,5 +1,13 @@
 # Publication history
 
+## 2026-11-13 — Public Foundations v0.6
+
+- Added a nonclinical visualization teaching exercise and product hypothesis using fictional scenes.
+- Separated representation, interpretation, and evidence; included proportionate privacy education and voluntary participation.
+- Described possible workshop, licensing, and support models as hypotheses without asserting buyers, outcomes, or clinical effectiveness.
+- Added an explicitly attributed independent-author perspective with self-reported professional background, primary sources, a claim card, and evidence boundaries. No sensitive clinical case narrative is included.
+- Kept sensitive personal accounts and proposed psychiatric workflows private. Candidate catalog remains 118.
+
 ## 2026-11-13 — Public Foundations v0.5
 
 - Added a portable experience pilot exercise covering readiness gates, rehearsal, booking, cost accounting, custody, and evidence-led expansion.
