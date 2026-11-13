@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-13 — Public Foundations v0.8
+
+- Published a proportionate privacy lesson with synthetic invitation exercise and evaluation criteria.
+- Developed the AI workflow intermediary concept into an architecture proposal with a worked synthetic scenario, trust boundaries and acceptance tests.
+- Developed the Christ Bot wireframe into a conversation-design proposal with a fictional example, refusal/correction cases and evaluation plan.
+- Source accounts remain private. No new catalog IDs; 118 candidate topics remain distinct from publications and results.
+
 ## 2026-11-13 — Public Foundations v0.7
 
 - Added Voice Lab / Foundry delegation and capture-return design note, a teaching card, and a proposed nonclinical evaluation.
