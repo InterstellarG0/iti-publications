@@ -180,3 +180,12 @@ November 13, 2026: three related notes added; candidate count remains 118. No ne
 This derivative adds no new candidate IDs. The catalog remains 118 entries.
 
 | [From Lived Experience to Research Questions](research/2026-11-13-lived-experience-research-perspective.md) | 017, 021, 035, 078, 080, 083, 084, 095, 101, 104, 111, 116 | Author perspective and method v0.1; no clinical results |
+
+### Additional November 13 workflow lessons
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [Drafts as Delegation](research/2026-11-13-drafts-as-delegation.md) | 013, 017, 020, 021, 083, 088, 090, 095, 098, 100, 102, 110, 116 | Nonclinical design note v0.1; unevaluated |
+| [Downsizing: Compare the Whole Cost](research/2026-11-13-downsizing-whole-cost.md) | 005, 056, 057, 084, 088, 099 | Planning exercise v0.1; untested |
+
+Candidate count remains **118**. These notes develop existing directions and do not establish clinical outcomes or financial savings.
