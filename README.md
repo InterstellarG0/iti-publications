@@ -1,4 +1,4 @@
-# ITI Research Library — Public Foundations v0.7
+# ITI Research Library — Public Foundations v0.8
 
 **Organization:** Interstellar Technologies Initiative, LLC  
 **Date:** 2026-11-13
@@ -33,6 +33,10 @@ These preliminary notes publish specific methods and questions, not validated fi
 
 - [Drafts as Delegation: Capture, Place, Link, Return](research/2026-11-13-drafts-as-delegation.md)
 - [Downsizing: Compare the Whole Cost](research/2026-11-13-downsizing-whole-cost.md)
+
+- [Privacy Without Constant Suspicion](research/2026-11-13-privacy-without-constant-suspicion.md)
+- [A Researcher-Controlled AI Workflow Layer](research/2026-11-13-researcher-controlled-ai-workflow.md)
+- [Designing Reflection Assistants That Preserve User Choice](research/2026-11-13-reflection-assistants-user-choice.md)
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
