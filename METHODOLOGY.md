@@ -24,3 +24,6 @@ Do not submit private personal information, credentials, confidential operationa
 
 ## Context-preserving design capture
 Keep original accounts, speaker corrections, observations, interpretations, design hypotheses, and evaluation results distinct. Mark self-report and transcript uncertainty. Preserve material disagreement; allow correction without erasing the source. Use synthetic examples for early prototypes and publish only the selected derivative. See [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md).
+
+## Delegation and return
+A draft preserves context without authorizing implementation. Mark the interrupted thread, capture and place new ideas, link relevant work, then reopen the current source before summarizing a decision. Record retrieval failures and corrections. See [Drafts as Delegation](research/2026-11-13-drafts-as-delegation.md).
