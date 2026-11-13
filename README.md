@@ -1,4 +1,4 @@
-# ITI Research Library — Public Foundations v0.6
+# ITI Research Library — Public Foundations v0.7
 
 **Organization:** Interstellar Technologies Initiative, LLC  
 **Date:** 2026-11-13
@@ -30,6 +30,9 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Visualization as a Learning Tool: A Product Hypothesis](research/2026-11-13-visualization-learning-product.md)
 
 - [From Lived Experience to Research Questions](research/2026-11-13-lived-experience-research-perspective.md)
+
+- [Drafts as Delegation: Capture, Place, Link, Return](research/2026-11-13-drafts-as-delegation.md)
+- [Downsizing: Compare the Whole Cost](research/2026-11-13-downsizing-whole-cost.md)
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
