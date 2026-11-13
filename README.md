@@ -1,4 +1,4 @@
-# ITI Research Library — Public Foundations v0.8
+# ITI Research Library — Public Foundations v0.9
 
 **Organization:** Interstellar Technologies Initiative, LLC  
 **Date:** 2026-11-13
@@ -39,6 +39,12 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Designing Reflection Assistants That Preserve User Choice](research/2026-11-13-reflection-assistants-user-choice.md)
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
+
+## Public kit concept drafts
+The following founder-authorized introductions are public drafts, not available rental offers or validated builds.
+- [Kit 002 — Portable Creative Workstation](drafts/kit-002-portable-creative-workstation.md)
+- [Kit 003 — Modular Gaming + Streaming Station](drafts/kit-003-gaming-streaming.md)
+- [Protect the Mission by Creating Options](drafts/three-kit-pivot-story.md)
 
 ## What remains private
 Unpublished manuscripts, private notes, internal handoffs, AI transcripts, logs, test data, budgets, unreleased operational plans, sensitive designs, and personal information are not included. The public topic index is not a publication of underlying working drafts.

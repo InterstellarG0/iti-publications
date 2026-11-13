@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-13 — Public Foundations v0.9
+
+- Added founder-authorized public concept drafts for Kit 002 (portable creative workstation) and Kit 003 (gaming and streaming), plus a three-kit strategy note.
+- Preserved Kit 001's astronomy/astrophotography and gaming direction. Indoor revenue supporting 001 remains a hypothesis.
+- Distinguished simultaneous concept development from funded builds, bookings and measured results. New concept themes are proposed; private budgets and source transcripts remain excluded.
+- Candidate topic inventory remains 118; kit numbers are not research topic IDs.
+
 ## 2026-11-13 — Public Foundations v0.8
 
 - Published a proportionate privacy lesson with synthetic invitation exercise and evaluation criteria.
