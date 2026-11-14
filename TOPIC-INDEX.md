@@ -215,3 +215,12 @@ Candidate count remains **118**. This develops existing directions; no validated
 | [Market Drawdowns and Trigger Hypotheses](research/2026-11-14-market-drawdowns-and-trigger-hypotheses.md) | 054, 055, 059, 069, 084, 116 | Research question v0.1; comparison pending |
 
 Inventory remains **118 candidate topics**. This derivative adds no candidate IDs or validated market results.
+
+### November 14 Everyday Lessons
+
+| Published material | Related candidate IDs | Release status |
+|---|---|---|
+| [Everyday Lessons framework](research/2026-11-14-everyday-lessons.md) | 020, 040, 084, 086, 111, 117 | Educational design proposal v0.1; unevaluated |
+| [Lesson 04: Attention and Your Feed](lessons/04-attention-and-your-feed.md) | 040, 084, 086, 111 | Ten-slide carousel text and facilitator notes; outcomes unevaluated |
+
+Inventory remains **118 candidate topics**. Lesson numbers are teaching-sequence numbers, not new research-topic IDs. Earlier lesson production states are documented in the framework; no completed Lesson 03 deck is asserted.
