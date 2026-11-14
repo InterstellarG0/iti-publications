@@ -44,6 +44,13 @@ These preliminary notes publish specific methods and questions, not validated fi
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
+## Everyday Lessons
+
+Public educational drafts for ages 10–14, with practical choices, memorable examples, and optional practice. These are unevaluated teaching materials, not measured learner outcomes.
+
+- [Framework, connected lesson sequence, and carousel standards](research/2026-11-14-everyday-lessons.md)
+- [Lesson 04: Attention and Your Feed](lessons/04-attention-and-your-feed.md) — complete ten-slide text and facilitator notes. The PPTX and image exports are not included in this repository.
+
 ## Latest concept artwork
 
 - [November 14 three-kit artwork and posting plan](communications/2026-11-14-three-kit-concept-artwork.md) — 001 Observatory; 002 gaming/streaming; 003 Workshop. Includes a numbering note because November 13 drafts below used a different 002/003 mapping.
