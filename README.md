@@ -40,6 +40,8 @@ These preliminary notes publish specific methods and questions, not validated fi
 
 - [Builder, Strategist, Integrator: Distributed Leadership](research/2026-11-14-builder-strategist-integrator.md)
 
+- [Market Drawdowns and Trigger Hypotheses](research/2026-11-14-market-drawdowns-and-trigger-hypotheses.md)
+
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
 ## Latest concept artwork

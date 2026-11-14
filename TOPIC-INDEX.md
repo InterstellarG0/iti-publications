@@ -207,3 +207,11 @@ Catalog remains **118 candidate topics**. These three publications develop exist
 | [Builder, Strategist, Integrator](research/2026-11-14-builder-strategist-integrator.md) | 003, 010, 078, 084, 088, 098, 099, 111, 116 | Concept note v0.1; unevaluated |
 
 Candidate count remains **118**. This develops existing directions; no validated personality categories or operational results are added.
+
+### November 14 market comparison question
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [Market Drawdowns and Trigger Hypotheses](research/2026-11-14-market-drawdowns-and-trigger-hypotheses.md) | 054, 055, 059, 069, 084, 116 | Research question v0.1; comparison pending |
+
+Inventory remains **118 candidate topics**. This derivative adds no candidate IDs or validated market results.

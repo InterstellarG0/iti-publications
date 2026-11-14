@@ -1,5 +1,13 @@
 # Publication history
 
+## 2026-11-14 — Market drawdowns and trigger hypotheses
+
+- Added the general question of historical cross-asset drawdown depth, synchronization, and external versus market-internal triggers.
+- Preserved the correction that weekly gains do not refute longer drawdowns, and that one asset cannot establish an all-assets pattern.
+- Linked Federal Reserve historical sources without claiming present-day equivalence or a completed dataset comparison.
+- Updated navigation and related-topic links. Candidate inventory remains 118; no trading recommendation or unprecedented-pattern conclusion asserted.
+
+
 ## 2026-11-14 — Leadership roles and publication boundary
 
 - Added a selected public concept note on the ant/builder, cobra/strategist, integrator, leadership rotation, and succession.
