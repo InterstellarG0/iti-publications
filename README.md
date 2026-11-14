@@ -23,8 +23,8 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Remember Your Community: From Civic Responsibility to Useful Service](research/2026-11-12-civic-duty-to-useful-service.md)
 - [From Word Choice to Testable Questions](research/2026-11-12-word-choice-to-testable-questions.md)
 
-- [Portable Experiences: Simulate, Rehearse, Book, Measure](research/2026-11-13-portable-experience-pilot.md)
-- [Guest Welcome: A Thirty-Second Orientation](research/2026-11-13-guest-welcome-checklist.md)
+- [Portable Experiences — Research Question](research/2026-11-13-portable-experience-pilot.md)
+- [Guest Welcome — Research Question](research/2026-11-13-guest-welcome-checklist.md)
 - [Preserve Context, Then Test the Design](research/2026-11-13-context-to-testable-design.md)
 
 - [Visualization as a Learning Tool: A Product Hypothesis](research/2026-11-13-visualization-learning-product.md)
@@ -55,11 +55,11 @@ Public educational drafts for ages 10–14, with practical choices, memorable ex
 
 - [November 14 three-kit artwork and posting plan](communications/2026-11-14-three-kit-concept-artwork.md) — 001 Observatory; 002 gaming/streaming; 003 Workshop. Includes a numbering note because November 13 drafts below used a different 002/003 mapping.
 
-## Public kit concept drafts
-The following founder-authorized introductions are public drafts, not available rental offers or validated builds.
+## Public kit concept summaries
+The following introductions are concepts, not available rental offers or validated builds. Detailed inventories, session routines, testing records and rental logistics have been withheld during preparation. Broader sharing remains a future release decision.
 - [Kit 002 — Portable Creative Workstation](drafts/kit-002-portable-creative-workstation.md)
 - [Kit 003 — Modular Gaming + Streaming Station](drafts/kit-003-gaming-streaming.md)
-- [Protect the Mission by Creating Options](drafts/three-kit-pivot-story.md)
+- [Portable Experiences — Three Concepts](drafts/three-kit-pivot-story.md)
 
 ## What remains private
 Unpublished manuscripts, private notes, internal handoffs, AI transcripts, logs, test data, budgets, unreleased operational plans, sensitive designs, and personal information are not included. The public topic index is not a publication of underlying working drafts.
