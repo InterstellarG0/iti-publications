@@ -1,5 +1,13 @@
 # Publication history
 
+## 2026-11-14 — Preparation before broader sharing
+
+- Preserved reviewed originals privately before replacing five current public kit/service pages with concept summaries.
+- Withheld inventories, rehearsal and acceptance routines, session logistics, and the detailed portable-pilot and guest-welcome methods during preparation.
+- Kept general concepts, artwork, educational materials, and candidate topic titles public. Broader sharing remains a separate future release decision.
+- This changes current files only; earlier commits and external copies may retain the prior material. No history rewrite or recall is claimed.
+- Topic inventory remains 118; this is a publication-scope change, not a research maturity change.
+
 ## 2026-11-14 — Everyday Lessons and attention carousel
 
 - Published the connected boundaries, friendship, privacy, and attention framework for ages 10–14.
