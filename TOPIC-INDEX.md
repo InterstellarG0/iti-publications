@@ -199,3 +199,11 @@ Candidate count remains **118**. These notes develop existing directions and do 
 | [Designing Reflection Assistants That Preserve User Choice](research/2026-11-13-reflection-assistants-user-choice.md) | 020, 024, 029, 031, 032, 083, 084, 091 | Conversation-design proposal v0.1; unevaluated |
 
 Catalog remains **118 candidate topics**. These three publications develop existing directions; no implementation, clinical result, or learner outcome is asserted.
+
+### November 14 leadership concept
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [Builder, Strategist, Integrator](research/2026-11-14-builder-strategist-integrator.md) | 003, 010, 078, 084, 088, 098, 099, 111, 116 | Concept note v0.1; unevaluated |
+
+Candidate count remains **118**. This develops existing directions; no validated personality categories or operational results are added.

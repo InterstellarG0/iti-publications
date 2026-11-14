@@ -1,7 +1,7 @@
 # ITI Research Library — Public Foundations v0.9
 
 **Organization:** Interstellar Technologies Initiative, LLC  
-**Date:** 2026-11-13
+**Date:** 2026-11-14
 
 ## Purpose
 Provide a public entry point into ITI's research questions, organizational foundations, and editorial methodology. This publication is informational: it does not assert scientific validation, product readiness, or partnerships.
@@ -37,6 +37,8 @@ These preliminary notes publish specific methods and questions, not validated fi
 - [Privacy Without Constant Suspicion](research/2026-11-13-privacy-without-constant-suspicion.md)
 - [A Researcher-Controlled AI Workflow Layer](research/2026-11-13-researcher-controlled-ai-workflow.md)
 - [Designing Reflection Assistants That Preserve User Choice](research/2026-11-13-reflection-assistants-user-choice.md)
+
+- [Builder, Strategist, Integrator: Distributed Leadership](research/2026-11-14-builder-strategist-integrator.md)
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 

@@ -1,5 +1,14 @@
 # Publication history
 
+## 2026-11-14 — Leadership roles and publication boundary
+
+- Added a selected public concept note on the ant/builder, cobra/strategist, integrator, leadership rotation, and succession.
+- Preserved provenance, uncertainties, and the distinction between metaphors and validated psychology.
+- Reinforced the separation of public concepts from private operating methods/evidence; operating advantage remains conditional on measured execution.
+- Excluded personal finances, original transcripts, detailed protocols, and private manuals. No implemented agent/server or training results claimed.
+- Updated navigation and related links. Candidate inventory remains 118.
+
+
 ## 2026-11-14 — Three-kit concept artwork archive
 
 - Added three founder-provided concept images and the corrected intended posting sequence: 001 at 12:00, 002 at 15:00, 003 at 18:00 Eastern.

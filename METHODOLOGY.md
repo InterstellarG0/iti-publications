@@ -27,3 +27,6 @@ Keep original accounts, speaker corrections, observations, interpretations, desi
 
 ## Delegation and return
 A draft preserves context without authorizing implementation. Mark the interrupted thread, capture and place new ideas, link relevant work, then reopen the current source before summarizing a decision. Record retrieval failures and corrections. See [Drafts as Delegation](research/2026-11-13-drafts-as-delegation.md).
+
+## Public concepts and private operating evidence
+Publish selected general questions and approved concept descriptions. Keep exact operating methods, internal manuals, raw field records, failure and timing data, supplier workarounds, and private economics out of public derivatives. Outcome claims require traceable evidence and material limitations. AI assistance can support development; an operating advantage would have to grow through tested equipment, repeatable delivery, and measured results. It is not established by publishing a concept or keeping a method private. No claim is made that a model provider has taken ITI material or cannot reproduce an idea. Evidence publication and manual release are separate decisions.
