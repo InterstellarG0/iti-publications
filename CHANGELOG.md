@@ -1,5 +1,14 @@
 # Publication history
 
+## 2026-11-14 — Everyday Lessons and attention carousel
+
+- Published the connected boundaries, friendship, privacy, and attention framework for ages 10–14.
+- Added complete Lesson 04 carousel text and facilitator notes, using “Notice. Choose. Switch.”
+- Recorded proportionate privacy, revocable sharing choices, access limits, immediate access to help, and disappearing-message caveats.
+- Documented theme rotation, month/year footer, page/swipe CTA, and editorial timing without claiming social posts are scheduled or live.
+- Distinguished engagement from learning evidence. Learning outcomes remain unevaluated; personal conversations are excluded.
+- Linked the materials from README and topic index. Catalog remains 118; no new candidate IDs. Binary deck and carousel assets are not included in this text release.
+
 ## 2026-11-14 — Market drawdowns and trigger hypotheses
 
 - Added the general question of historical cross-asset drawdown depth, synchronization, and external versus market-internal triggers.
