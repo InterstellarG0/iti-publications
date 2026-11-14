@@ -40,6 +40,10 @@ These preliminary notes publish specific methods and questions, not validated fi
 
 See [release history](CHANGELOG.md). The 118-topic candidate inventory remains distinct from these published notes.
 
+## Latest concept artwork
+
+- [November 14 three-kit artwork and posting plan](communications/2026-11-14-three-kit-concept-artwork.md) — 001 Observatory; 002 gaming/streaming; 003 Workshop. Includes a numbering note because November 13 drafts below used a different 002/003 mapping.
+
 ## Public kit concept drafts
 The following founder-authorized introductions are public drafts, not available rental offers or validated builds.
 - [Kit 002 — Portable Creative Workstation](drafts/kit-002-portable-creative-workstation.md)

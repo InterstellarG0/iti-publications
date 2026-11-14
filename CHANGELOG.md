@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-14 — Three-kit concept artwork archive
+
+- Added three founder-provided concept images and the corrected intended posting sequence: 001 at 12:00, 002 at 15:00, 003 at 18:00 Eastern.
+- Recorded Muse as the intended caption source; caption text and completed social posts were not supplied.
+- Preserved concept/not-yet-available labels and documented the 002/003 numbering difference from November 13 drafts.
+- Candidate topic inventory remains 118.
+
 ## 2026-11-13 — Public Foundations v0.9
 
 - Added founder-authorized public concept drafts for Kit 002 (portable creative workstation) and Kit 003 (gaming and streaming), plus a three-kit strategy note.
