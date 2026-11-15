@@ -224,3 +224,16 @@ Inventory remains **118 candidate topics**. This derivative adds no candidate ID
 | [Lesson 04: Attention and Your Feed](lessons/04-attention-and-your-feed.md) | 040, 084, 086, 111 | Ten-slide carousel text and facilitator notes; outcomes unevaluated |
 
 Inventory remains **118 candidate topics**. Lesson numbers are teaching-sequence numbers, not new research-topic IDs. Earlier lesson production states are documented in the framework; no completed Lesson 03 deck is asserted.
+
+
+## November 15 reconciled releases
+
+- [Skills to Enterprise: Test Whether Sales Can Cover an Expense](research/2026-11-15-skills-to-enterprise.md) — concept/research question v0.1; unevaluated.
+- [Fair Pay and Accountable Follow-Through](research/2026-11-15-fair-pay-and-accountable-follow-through.md) — concept/research question v0.1; unevaluated.
+- [Weekly Orientation and Constructive Delegation](research/2026-11-15-weekly-orientation-and-delegation.md) — concept/research question v0.1; unevaluated.
+- [Gossip, Reflection and AI-Assisted Conflict Navigation](research/2026-11-15-gossip-reflection-and-ai.md) — concept/research question v0.1; unevaluated.
+- [Offline Assistance and Revocable Handoffs](research/2026-11-15-offline-assistance-and-revocable-handoffs.md) — concept/research question v0.1; unevaluated.
+- [A Small Satellite Starts With a Mission Question](research/2026-11-15-small-satellite-mission-question.md) — concept/research question v0.1; unevaluated.
+- [Everyday Lesson 05: Gossip, Help and AI](lessons/05-gossip-help-and-ai.md) — teaching draft v0.1; unevaluated.
+
+These outputs develop existing candidates cited in each note. The catalog remains **118 unique candidate topics**, with no new IDs or verified results.

@@ -1,5 +1,16 @@
 # Publication history
 
+## 2026-11-15 — Reconciliation and weekly orientation
+
+- Added selected general notes on skills-to-enterprise, fair pay and follow-through, weekly orientation, gossip/reflection, local assistance and revocable handoffs, and a bounded satellite mission question.
+- Added Everyday Lesson 05 text and facilitator notes on gossip, help and AI; this develops the existing checking-claims slot.
+- Preserved kindness and constructive correction as delegation practices, with verification of the result.
+- Distinguished completion, authorization, access, retained records and payment; logistics examples do not establish global revocability or cryptographic multisignature.
+- Kept private family statements, medical narratives, personal finances, supplier research and detailed operating records out of this release.
+- Kept current licenses and kit-number history unchanged. No social scheduling, working kit, clinical deployment or sales results claimed.
+- Updated navigation; candidate count remains 118.
+
+
 ## 2026-11-14 — Preparation before broader sharing
 
 - Preserved reviewed originals privately before replacing five current public kit/service pages with concept summaries.

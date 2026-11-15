@@ -1,7 +1,7 @@
-# ITI Research Library — Public Foundations v0.9
+# ITI Research Library — Public Foundations v0.10
 
 **Organization:** Interstellar Technologies Initiative, LLC  
-**Date:** 2026-11-14
+**Date:** 2026-11-15
 
 ## Purpose
 Provide a public entry point into ITI's research questions, organizational foundations, and editorial methodology. This publication is informational: it does not assert scientific validation, product readiness, or partnerships.
@@ -74,3 +74,15 @@ Catalog entries are proposed research directions, not validated findings, engine
 
 ## Licensing and inquiries
 Original text specifically designated in this release is offered under CC BY-NC 4.0. Commercial reuse requires separate written permission. See [License notice](LICENSE-NOTICE.md) and [Inquiries](CONTRIBUTING.md).
+
+## November 15 reconciliation
+
+- [Skills to Enterprise: Test Whether Sales Can Cover an Expense](research/2026-11-15-skills-to-enterprise.md)
+- [Fair Pay and Accountable Follow-Through](research/2026-11-15-fair-pay-and-accountable-follow-through.md)
+- [Weekly Orientation and Constructive Delegation](research/2026-11-15-weekly-orientation-and-delegation.md)
+- [Gossip, Reflection and AI-Assisted Conflict Navigation](research/2026-11-15-gossip-reflection-and-ai.md)
+- [Offline Assistance and Revocable Handoffs](research/2026-11-15-offline-assistance-and-revocable-handoffs.md)
+- [A Small Satellite Starts With a Mission Question](research/2026-11-15-small-satellite-mission-question.md)
+- [Everyday Lesson 05: Gossip, Help and AI](lessons/05-gossip-help-and-ai.md)
+
+The catalog remains 118 candidate directions. These releases add educational drafts and research questions, not operating or clinical outcomes. Detailed sourcing, private economics and original conversations remain private. The kit-number difference remains documented; names identify concepts until an explicit numbering decision.
