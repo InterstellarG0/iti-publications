@@ -5,7 +5,7 @@ Status: Educational draft; learning outcomes unevaluated
 Origin: Founder-directed lesson with AI-assisted writing. All examples are fictional.
 Theme: spring. This develops the existing planned Lesson 05 on checking claims and asking better questions.
 
-## Ten-slide copy
+## Original ten-slide copy
 ### 1. Gossip, help and AI
 Talking about a problem can help.
 What we say about another person still deserves care.
@@ -79,3 +79,18 @@ Related candidates: ITI-RP-020, 040, 084, 086, 111, 117. No new catalog ID.
 
 
 Original public text is offered under the repository's [license notice](../LICENSE-NOTICE.md). Third-party sources retain their own terms.
+
+
+## Practice prompt supplement (November 2026)
+
+The revised carousel adds an eleventh practice slide. The original ten teaching slides retain their content.
+
+```text
+In a fictional class, I saw Sam look toward another desk. Someone says Sam cheated. Separate what I saw from guesses. Give two possible explanations and one fair question. Do not decide that Sam is guilty.
+```
+
+Check the answer against the supplied facts and limits. Practice on paper with a facilitator if an AI service is unsuitable. Use fictional details and follow service age requirements.
+
+Small footer on each revised slide: *AI can be wrong. Check important answers. Keep personal information private.*
+
+See [practice prompts for the collection](everyday-practice-prompts.md) and the [GitHub and input/output field lesson](github-life-library-and-prompting.md). No live social posting or measured learning outcome is claimed.
