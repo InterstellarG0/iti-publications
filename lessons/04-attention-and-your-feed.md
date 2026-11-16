@@ -106,3 +106,18 @@ The intended publication time is 6 p.m. Eastern after the master-deck promotion.
 See the [Everyday Lessons framework](../research/2026-11-14-everyday-lessons.md) for scope, privacy principles, feedback, and evaluation limits. Use fictional examples and avoid asking learners to submit private information.
 
 Original public text is offered under the repository's [license notice](../LICENSE-NOTICE.md).
+
+
+## Practice prompt supplement (November 2026)
+
+The revised carousel adds an eleventh practice slide. The original ten teaching slides retain their content.
+
+```text
+I opened a feed for a game tip and kept scrolling. Help me practice Notice, Choose, Switch. Give me one question to ask myself and two next steps I can choose from. Include taking a break. Avoid guilt or a rigid schedule.
+```
+
+Check the answer against the supplied facts and limits. Practice on paper with a facilitator if an AI service is unsuitable. Use fictional details and follow service age requirements.
+
+Small footer on each revised slide: *AI can be wrong. Check important answers. Keep personal information private.*
+
+See [practice prompts for the collection](everyday-practice-prompts.md) and the [GitHub and input/output field lesson](github-life-library-and-prompting.md). No live social posting or measured learning outcome is claimed.
