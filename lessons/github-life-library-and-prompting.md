@@ -1,8 +1,10 @@
-# ITI Field Manual: A Project Library Without Coding
+# ITI Field Manual: The Subfolders of Life
 
 November 2026 • Founder-directed educational draft • Learning outcomes unevaluated
 
-## Everyday lesson: GitHub beyond code
+## Everyday lesson: The Subfolders of Life
+
+A GitHub project library, no coding required.
 
 GitHub can hold learning notes, project plans and records of changes. You can create and edit text in its web interface without writing software. A repository is a collection of files with version history. A README introduces the collection. A commit records a saved change with a short explanation. History records what was saved, not whether a claim is true.
 
@@ -115,3 +117,6 @@ Interface wording can change. Check current documentation when following the ste
 
 
 Original public text follows the repository's [license notice](../LICENSE-NOTICE.md). Third-party sources retain their own terms.
+
+
+Related public collection: [Reflections: The Subfolders of Life](https://github.com/InterstellarG0/iti-publications/tree/main/reflections). The first five public adaptations and starter guide retain source credit and distinguish reflections from verified results.
