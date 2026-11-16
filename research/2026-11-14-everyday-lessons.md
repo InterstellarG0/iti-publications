@@ -68,3 +68,14 @@ Related: [Privacy Without Constant Suspicion](2026-11-13-privacy-without-constan
 
 **Related candidates:** ITI-RP-020, 040, 084, 086, 111, 117. No new candidate IDs. The catalog remains 118.
 Original public text is offered under the repository's [license notice](../LICENSE-NOTICE.md).
+
+
+## November 2026 prompt-practice revision
+
+Each revised lesson pairs its skill with a copyable practice prompt and an answer check. Teach goal, relevant context, limits and desired format. More words alone do not guarantee quality. Learners can adapt the request and challenge the response.
+
+Add the small footer: *AI can be wrong. Check important answers. Keep personal information private.* Use fictional information and an offline alternative; follow each service's age requirements.
+
+The revised decks for 01, 02, 04 and 05 add one practice slide after their original ten. This eleven-slide revision supersedes the original ten-slide format for those decks. Lesson 03 remains outline-only. The reconciliation, GitHub and input/output topics are standalone supplements without new sequence numbers.
+
+See [practice prompts](../lessons/everyday-practice-prompts.md) and [field lesson and credit](../lessons/github-life-library-and-prompting.md). Lauren Tan (@poteto) is credited as inspiration; ITI's title is an adaptation, not a direct quote. No social scheduling or learning results are asserted.
