@@ -1,5 +1,13 @@
 # Publication history
 
+## 2026-11-15 — The Subfolders of Life and public reflections
+
+- Adopted the founder-selected title The Subfolders of Life for the GitHub educational lesson, retaining its existing file path.
+- Added five selected public reflection adaptations and a starter guide for extending a personal project library with new folders.
+- Preserved attribution, uncertainty and the distinction between private source records and reviewed public derivatives.
+- Reflections cover the hundred-year horizon, corrections, repositories beyond code, plain language and credit, and recognition as a proposed incentive.
+- Updated navigation. Existing license terms and the 118-topic candidate count remain unchanged. This is a selected collection, not an exhaustive historical audit.
+
 ## 2026-11-15 — Project libraries and prompt practice
 
 - Published a no-code GitHub field lesson, browser steps, reconciliation exercise and reusable continuity handoff.
