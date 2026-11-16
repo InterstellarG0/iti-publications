@@ -237,3 +237,13 @@ Inventory remains **118 candidate topics**. Lesson numbers are teaching-sequence
 - [Everyday Lesson 05: Gossip, Help and AI](lessons/05-gossip-help-and-ai.md) — teaching draft v0.1; unevaluated.
 
 These outputs develop existing candidates cited in each note. The catalog remains **118 unique candidate topics**, with no new IDs or verified results.
+
+
+### Everyday project records and prompt practice
+
+| Published note | Related candidate IDs | Release status |
+|---|---|---|
+| [GitHub beyond code and input/output field lesson](lessons/github-life-library-and-prompting.md) | 017, 020, 040, 084, 088, 098, 100, 102, 110, 111, 116 | Educational method and founder perspective; unevaluated |
+| [Reusable Everyday Lesson practice prompts](lessons/everyday-practice-prompts.md) | 020, 033, 040, 084, 086, 111, 117 | Fictional practice activities; no measured results |
+
+No new research IDs. Catalog remains 118. Lesson 03 remains outline-only.
