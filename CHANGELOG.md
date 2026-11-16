@@ -1,5 +1,14 @@
 # Publication history
 
+## 2026-11-15 — Project libraries and prompt practice
+
+- Published a no-code GitHub field lesson, browser steps, reconciliation exercise and reusable continuity handoff.
+- Added lesson-specific practice prompts, checkable requirements, offline alternatives and a short AI disclaimer.
+- Updated Lesson 04/05 text with practice supplements and the framework with the eleven-slide revision for existing decks. Lesson 03 remains outline-only.
+- Credited Lauren Tan (@poteto) and linked her AI Engineer CODE talk. Input/output title is an ITI adaptation, not a quotation.
+- Preserved the founder's appreciation for Elon Musk as attributed perspective and recognition as a proposed nonfinancial incentive. No claim that promotion establishes an open-source license.
+- Updated navigation. Candidate inventory remains 118. No social posts or learning outcomes claimed.
+
 ## 2026-11-15 — Reconciliation and weekly orientation
 
 - Added selected general notes on skills-to-enterprise, fair pay and follow-through, weekly orientation, gossip/reflection, local assistance and revocable handoffs, and a bounded satellite mission question.
