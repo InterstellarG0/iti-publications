@@ -86,3 +86,11 @@ Original text specifically designated in this release is offered under CC BY-NC 
 - [Everyday Lesson 05: Gossip, Help and AI](lessons/05-gossip-help-and-ai.md)
 
 The catalog remains 118 candidate directions. These releases add educational drafts and research questions, not operating or clinical outcomes. Detailed sourcing, private economics and original conversations remain private. The kit-number difference remains documented; names identify concepts until an explicit numbering decision.
+
+
+## Everyday learning: input, records and recognition
+
+- [GitHub beyond code: field lesson, browser steps and reusable continuity handoff](lessons/github-life-library-and-prompting.md)
+- [Better Input. Better Output.: practice prompts for existing lessons](lessons/everyday-practice-prompts.md)
+
+Includes inspiration credit and source link for Lauren Tan (@poteto), the founder's leadership perspective, and recognition as a proposed nonfinancial incentive. These are educational drafts with fictional examples; the candidate catalog remains 118.
