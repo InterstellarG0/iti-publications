@@ -49,7 +49,7 @@ See [release history](CHANGELOG.md). The 118-topic candidate inventory remains d
 Public educational drafts for ages 10–14, with practical choices, memorable examples, and optional practice. These are unevaluated teaching materials, not measured learner outcomes.
 
 - [Framework, connected lesson sequence, and carousel standards](research/2026-11-14-everyday-lessons.md)
-- [Lesson 04: Attention and Your Feed](lessons/04-attention-and-your-feed.md) — complete ten-slide text and facilitator notes. The PPTX and image exports are not included in this repository.
+- [Lesson 04: Attention and Your Feed](lessons/04-attention-and-your-feed.md) — ten teaching slides, a practice-prompt supplement and facilitator notes. The PPTX and image exports are not included in this repository.
 
 ## Latest concept artwork
 
@@ -90,7 +90,12 @@ The catalog remains 118 candidate directions. These releases add educational dra
 
 ## Everyday learning: input, records and recognition
 
-- [GitHub beyond code: field lesson, browser steps and reusable continuity handoff](lessons/github-life-library-and-prompting.md)
+- [The Subfolders of Life: GitHub lesson and reusable continuity handoff](lessons/github-life-library-and-prompting.md)
 - [Better Input. Better Output.: practice prompts for existing lessons](lessons/everyday-practice-prompts.md)
 
 Includes inspiration credit and source link for Lauren Tan (@poteto), the founder's leadership perspective, and recognition as a proposed nonfinancial incentive. These are educational drafts with fictional examples; the candidate catalog remains 118.
+
+
+## Reflections: The Subfolders of Life
+
+[Read the collection](reflections/README.md) or [use the starter guide](reflections/starter-guide.md). Five selected founder reflections cover the hundred-year horizon, corrections, personal project libraries, plain language and contributor credit, and recognition. These are attributed perspectives and educational adaptations, not measured outcomes or an exhaustive archive review. Existing licensing applies; private source records remain private.
