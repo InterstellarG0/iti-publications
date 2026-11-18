@@ -1,5 +1,12 @@
 # Publication history
 
+## 2026-11-18 — Human-AI delegation and the rest binary
+
+- Added two working research notes from the everyday lessons series: the listing bottleneck in human-AI delegation (Nov 18) and the rest binary (Nov 17).
+- The delegation note records the human-AI split from live shop operations: the human decides and verifies, the AI does the repetitive work, cost before price, skip what cannot clear the profit floor.
+- The rest note records a working rule for tight days: end rest and work a short defined block, or finish the window and protect one low-energy game, never half-do both.
+- Both notes are public adaptations; personal records, supplier details, costs, and internal operating records are excluded.
+
 ## 2026-11-15 — The Subfolders of Life and public reflections
 
 - Adopted the founder-selected title The Subfolders of Life for the GitHub educational lesson, retaining its existing file path.
