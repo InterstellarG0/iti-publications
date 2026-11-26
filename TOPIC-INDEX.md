@@ -1,6 +1,6 @@
 # ITI Candidate Research Topic Index
 
-The 118 entries below are **ITI-RP** candidate research topics, not published manuscripts. The original 98 entries retain their source inventory status. Entries 099–118 are the candidate additions prepared on November 10 and authorized for public catalog release on November 12, 2026. All are cataloged as Idea; this does not describe the maturity of every related private draft.
+The 119 entries below are **ITI-RP** candidate research topics, not published manuscripts. The original 98 entries retain their source inventory status. Entries 099–118 are the candidate additions prepared on November 10 and authorized for public catalog release on November 12, 2026. All are cataloged as Idea; this does not describe the maturity of every related private draft.
 
 | ID | Discipline | Candidate topic | Inventory status |
 |---|---|---|---|
@@ -122,10 +122,11 @@ The 118 entries below are **ITI-RP** candidate research topics, not published ma
 | ITI-RP-116 | AI and Knowledge | Research Disagreement and Evidence Provenance | Idea |
 | ITI-RP-117 | AI and Knowledge | Privacy-Preserving Digital Identity | Idea |
 | ITI-RP-118 | Product Specifications | Portable Gaming and Astrophotography Workstations | Idea |
+| ITI-RP-119 | Psychology and Ethics | Positive Psychological Operation: Constructive Influence, Human Agency and Multiplanetary Orientation | Idea |
 
 ## Count and scope
 
-Updated: 2026-11-12. **118 candidate catalog entries: 98 original + 20 additions.** This counts research directions, not completed papers, independent discoveries, or validated findings. The published notes linked below are related outputs and are not added again to the topic count.
+Updated: 2026-11-26. **119 candidate catalog entries: 98 original + 20 November 12 additions + 1 November 26 addition.** This counts research directions, not completed papers, independent discoveries, or validated findings. The published notes linked below are related outputs and are not added again to the topic count.
 
 The expansion was reconciled against the original list as narrower applications or distinct workstreams within existing themes. Related subjects remain cross-referenced rather than presented as unrelated inventions. Private source inventory synchronization is separate; this release updates the public catalog only.
 
@@ -247,3 +248,12 @@ These outputs develop existing candidates cited in each note. The catalog remain
 | [Reusable Everyday Lesson practice prompts](lessons/everyday-practice-prompts.md) | 020, 033, 040, 084, 086, 111, 117 | Fictional practice activities; no measured results |
 
 No new research IDs. Catalog remains 118. Lesson 03 remains outline-only.
+
+
+## November 26 candidate addition
+
+| Added ID | Related original IDs | Scope distinction |
+|---|---|---|
+| ITI-RP-119 | 003, 020, 040, 084, 085, 086, 116 | Founder-proposed Positive Psychological Operation (PPO) philosophy: constructive pattern interruption, evidence-based orientation, public education, voluntary participation, and independent capability |
+
+[ITI-RP-119 working concept record](research/2026-11-26-positive-psychological-operation-working-concept.md) preserves the original terminology and discussion. This is an **Idea**, not a finished paper, verified psychological intervention, or approved slide deck. Earlier historical references to 118 topics remain unchanged as dated records. Current catalog total: **119**.
