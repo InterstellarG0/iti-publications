@@ -51,6 +51,8 @@ Public educational drafts for ages 10–14, with practical choices, memorable ex
 - [Framework, connected lesson sequence, and carousel standards](research/2026-11-14-everyday-lessons.md)
 - [Lesson 04: Attention and Your Feed](lessons/04-attention-and-your-feed.md) — ten teaching slides, a practice-prompt supplement and facilitator notes. The PPTX and image exports are not included in this repository.
 
+- [Take Initiative. Own the Outcome.](lessons/2026-11-27-take-initiative-own-the-outcome.md) — seven-slide script draft, field-manual application and later paper-development questions; no rendered deck or measured outcomes claimed.
+
 ## Latest concept artwork
 
 - [November 14 three-kit artwork and posting plan](communications/2026-11-14-three-kit-concept-artwork.md) — 001 Observatory; 002 gaming/streaming; 003 Workshop. Includes a numbering note because November 13 drafts below used a different 002/003 mapping.
